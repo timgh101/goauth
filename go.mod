@@ -1,4 +1,4 @@
-module goauth
+module github.com/timgh101/goauth
 
 go 1.15
 
